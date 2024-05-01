@@ -1,0 +1,7 @@
+# Proje içerisinde kullanýlan servislerin adresleri ve port bilgileri yer alacak
+
+Web.ApiGateway     -> http://localhost:5000
+Web.Identity       -> http://localhost:5001
+Web.Student        -> http://localhost:5002
+Web.Instructor     -> http://localhost:5004
+Web.Lesson         -> http://localhost:5005
